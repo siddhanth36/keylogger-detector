@@ -1,0 +1,29 @@
+Byte-compiled / optimized files
+pycache/
+*.py[cod]
+*$py.class
+
+Virtual environment
+venv/
+.env/
+
+IDE specific files
+.vscode/
+.idea/
+
+System files
+.DS_Store
+Thumbs.db
+
+Logs and outputs
+detections.log
+*.log
+
+Local configuration
+config.ini
+secrets.txt
+
+Build/distributions
+build/
+dist/
+*.egg-info/
